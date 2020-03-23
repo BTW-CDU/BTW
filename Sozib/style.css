@@ -1,0 +1,111 @@
+body{
+	
+background: url("dodo1.jpg") no-repeat center;
+background-size: 120%;
+
+}
+h1{
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size:48px;
+	color:#F02ED8;
+
+}
+
+form{
+	margin:22px auto;
+	width:320px;
+	color:red ;
+}
+
+input{
+	padding:12px;
+	font-family:"Comic Sans MS" ;
+	font-size:inherit;
+}
+
+
+input[type="text"] {
+	text-align: center;
+	display:block;
+	margin-bottom:25px;
+	width:100%;
+	border:3px solid black;
+	background:#ECEF18;
+
+}
+input[type="submit"] {
+	text-align: center;
+	display:block;
+	margin-bottom:25px;
+	width: 100%;
+	border:3px solid black;
+	background:#ECEF18;
+
+}
+
+input[type="address"] {
+	text-align: center;
+	display:block;
+	margin-bottom:25px;
+	width:100%;
+	border:3px solid black;
+	background:#ECEF18;
+
+}
+
+input[type="email"] {
+	text-align: center;
+	display:block;
+	margin-bottom:25px;
+	width:100%;
+	border:3px  solid black;
+	background:#ECEF18;
+
+
+}
+
+input[type="telephone number"] {
+	text-align: center;
+	display:block;
+	margin-bottom:25px;
+	width:100%;
+	border:3px solid black;
+	background:#ECEF18;
+
+}
+input[type="birthdate"] {
+	text-align: center;
+	display:block;
+	margin-bottom:25px;
+	width:100%;
+	border:3px solid black;
+	background:#ECEF18
+}
+input[type="password"] {
+	text-align: center;
+	display:block;
+	margin-bottom:25px;
+	width:100%;
+	border:3px solid black;
+	background:#ECEF18
+
+}
+input[type="submit"]  {
+	text-align: center;
+	width: 344px;
+	height: 45px;
+	border:none;
+	background:black;
+	color: red;
+}
+
+input[type="submit"]:focus  {
+	text-align: center;
+	width: 344px;
+	height: 45px;
+	border:none;
+	background:black;
+	color: blue;
+}
+
