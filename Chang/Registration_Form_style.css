@@ -1,0 +1,39 @@
+body {
+background: url("Registration_Form_pic.jpg") no-repeat center;
+background-size:50%;
+}
+
+p {
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size:xx-large;
+	color:maroon;
+}
+
+form {
+	margin: auto;
+	width:360px;
+	color:darkmagenta ;
+  font-family:"Georgia"
+}
+
+input {
+  text-align: center;
+	padding:16px;
+	font-family:"Arial";
+	font-size:medium;
+	margin-bottom:28px;
+	width:100%;
+	border:2px double;
+  border-color:#00FF00 #FF0000 #0000FF #000000;
+	background:coral;
+}
+
+input.submit {
+
+	width: 100px;
+	height: 50px;
+	border:2px double;
+	background:wheat;
+	color:cornflowerblue;
+}
