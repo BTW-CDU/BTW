@@ -17,10 +17,10 @@ ul li a{
 	
 }
 ul li a:hover{
-	background-color: #fff;
+	background-color: #D70BF3;
 	color: #000;
 }
 	
 	ul li.active a{
-		background-color: #fff;
+		background-color: #D70BF3;
 	color: #000;
