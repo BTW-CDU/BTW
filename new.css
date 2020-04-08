@@ -10,17 +10,17 @@ ul li {
 }
 ul li a{
 	text-decoration: none;
-	color:#D70BF3;
+	color:#52E44f;
 	padding:5px 20px;
 	border: 1px solid #transparent;
 	transition: 0.6 ease;
 	
 }
 ul li a:hover{
-	background-color: #D70BF3;
+	background-color: #52E44f;
 	color: #000;
 }
 	
 	ul li.active a{
-		background-color: #D70BF3;
+		background-color: #52E44f;
 	color: #000;
